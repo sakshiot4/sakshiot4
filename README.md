@@ -1,5 +1,5 @@
 # 💫 About Me:
-Third-year BSc IT student at Mumbai University<br>Currently pursuing an ML Engineer course under PMKVY<br>Skilled in Python and Django<br>Interested in Machine Learning and real-world applications<br>Avid novel reader 📚
+Third-year BSc IT student at Mumbai University<br>Currently pursuing an ML Engineer course under PMKVY<br>Skilled in Python and Django<br>Interested in Machine Learning and real-world applications<br>Avid novel reader 📚📔
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sakshiot4&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
